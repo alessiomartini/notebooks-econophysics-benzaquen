@@ -75,6 +75,6 @@ simulated.
 
 ## Related repository
 
-- [`ml-and-deep-learning-notebooks`](https://github.com/alessiomartini/ml-and-deep-learning-notebooks)
+- [`notebooks-ml-and-deep-learning`](https://github.com/alessiomartini/notebooks-ml-and-deep-learning)
   — the same learn-by-implementing approach applied to machine learning and deep
   learning.
